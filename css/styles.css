@@ -1,0 +1,26 @@
+h1{
+    color:indigo;
+}
+h2{
+    color:teal;
+
+}
+
+h2.secondline {
+    color:slateblue;
+}
+
+h3{
+    color:slategray;
+}
+p{
+    background-color: wheat;
+}
+
+ul{
+    color:steelblue;
+    font-size: 2rem;
+}
+*{
+    width:70vw;
+}
